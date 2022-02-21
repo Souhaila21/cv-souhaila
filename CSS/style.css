@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "bootstrap-icons";
+    src: url('../fonts/bootstrap-icons.woff'), url('../fonts/bootstrap-icons.woff2');
+}
+
+body {
+    font-size: 1.5em;
+}
+
+img {
+    border-radius: 50%;
+    margin-right: 900px;
+    background-color: white;
+}
+
+.card {
+    width: 450px;
+    height: 280px;
+    padding: 10px;
+    border: solid rgb(140, 212, 140);
+}
+
+.cardless {
+    width: 450px;
+    height: 200px;
+    padding: 10px;
+    border: solid rgb(140, 212, 140);
+    background-color: white;
+}
